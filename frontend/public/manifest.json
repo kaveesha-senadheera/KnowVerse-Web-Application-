@@ -1,0 +1,8 @@
+{
+  "short_name": "KnowVerse",
+  "name": "KnowVerse - Your Knowledge Universe",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#9333ea",
+  "background_color": "#ffffff"
+}
